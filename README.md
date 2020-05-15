@@ -21,7 +21,7 @@ gem install faker
 After that Clone this Repo
 
 ```bash
-git clone https://richiramadhan@bitbucket.org/richiramadhan/technical-mekari-sdet-test.git
+git clone https://github.com/richirin/automation-web-api-ruby
 ```
 
 Open Directory Folder with CMD/Terminal/etc
